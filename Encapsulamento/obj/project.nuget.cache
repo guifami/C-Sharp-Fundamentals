@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/LIqG3a7U7GEdOBAOJOFi9f5n27SwiU1+6EhKoHEokwwZ2EgcXS4hTPPy1O0FpPbFSVparJPZeXCBikDJ1BFg==",
+  "success": true,
+  "projectFilePath": "/Users/guifami/Documents/curso-c-sharp/CursoCSharp/Encapsulamento/Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "/Users/guifami/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/guifami/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/guifami/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/guifami/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/guifami/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/guifami/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

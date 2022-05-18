@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CursoCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CursoCSharp/Api/PrimeiroArquivo.cs">
+    <Files>
+      <File FileName="CursoCSharp/Api/PrimeiroArquivo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CursoCSharp" expanded="True">
+            <Node name="CursoCSharp" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="PrimeiroArquivo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
